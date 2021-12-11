@@ -13,7 +13,7 @@ Problem Solving with
 ![BOJ badge](https://boj-badge.herokuapp.com/?id=jaehoo1)  
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehoo1)](https://solved.ac/jaehoo1)
-![mazandi](http://mazandi.herokuapp.com/api?handle=jaehoo1&theme=dark)
+<!--![mazandi](http://mazandi.herokuapp.com/api?handle=jaehoo1&theme=dark)-->
 
 ![](https://c.tenor.com/PK95lqgvj4kAAAAi/%EC%8B%A0%EB%82%98%EB%8A%94%EB%86%8D%EB%8B%B4%EA%B3%B0-%EC%A0%95%EC%8B%A0%EC%82%AC%EB%82%98%EC%9A%B4%EB%86%8D%EB%8B%B4%EA%B3%B0.gif)
 
