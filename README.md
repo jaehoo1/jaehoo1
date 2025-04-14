@@ -86,6 +86,19 @@
 |[NS Homeshopping](http://pr.nsmall.com)|2022.12.01 ~ 2022.12.31|Product Service Development Team|<li>Java Backend Developer</li><li>Product Operation</li>|
 |[NS Homeshopping](http://pr.nsmall.com)|2023.01.01 ~ |IT Development Team|<li>Java Backend Developer</li><li>Product Operation</li><li>Deployment Manager</li>|
 
+## Projects
+|<center>프로젝트</center>|<center>기간</center>|<center>역할</center>|<center>사용기술</center>|<center>설명</center>|
+|---|---|---|---|---|
+|협력사 앱 사용자 편의성 개선|2023.01 ~ 2023.04|BE|Java, Spring|협력사 전용 앱의 사용자 편의성 기능들 구현|
+|상품 대량등록 시스템 설계|2023.03 ~ 2023.06|FE, BE|JS, Java, Spring|엑셀파일로 상품 대량등록을 가능케하는 기능 구현|
+|형상관리서버(SVN) U2L|2023.02 ~ 2023.04|작업 영향도 검토, 실제 변경 작업|DevOps, Server, UNIX, Linux, MW Config|SVN Server Unix → Linux, Apache WEB Server, Tomcat|
+|사내 점심 알리미<br>(Toy Project)|2023.02 ~ 2023.03|기획, 설계, 구현, 운영|Python|PDF를 읽어와 점심메뉴를 알려주는 봇 구현|
+|협력사 시스템 서버 U2L|2023.05 ~ 2023.08|작업 영향도 검토, 실제 변경 작업|Server, Unix, Linux, MW Config, Spring|협력사 서버 Unix, JEUS → Linux, Apache WEB Server, Tomcat|
+|개발환경 프레임워크 업그레이드|2024.01 ~ 2024.03|프레임워크 라이브러리 의존성 검토, Miagration|DevOps, Server, Java, Spring|레거시 프로젝트 프레임워크 업그레이드(java, Tomcat, 기타 영향받는 프레임워크)|
+|배치 솔루션 내재화(자체구축)|2024.02 ~ 2024.12|PM, PL, 기획, 설계, 구현, 운영, BE, FE, Architecture|DevOps, Server, Java, HTML, JS, Thymeleaf, Spring Boot, Spring Batch, Quartz|배치 솔루션 자체 구현|
+|BE Legacy Server L2L, U2L|2025.01 ~ |기획, 설계, Architecture, 영향도 검토, 프레임워크 라이브러리 의존성 검토|DevOps, Server, Linux, Spring, MW Config|EOS 된 서버들 이관작업|
+|협력사 시스템 서버 L2C 지원|2025.02 ~ 2025.03|지원(기존 배포 파이프라인, 서버 아키텍처 설명)|Docker, SCM(SVN → Git), Spring|On Premise → Private Cloud 이관 지원|
+
 ## Baekjoon-Online-Judge
 Problem Solving with
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
@@ -97,18 +110,3 @@ Problem Solving with
 ![jaehoo1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehoo1&show_icons=true&theme=cobalt)
 
 ![](https://c.tenor.com/PK95lqgvj4kAAAAi/%EC%8B%A0%EB%82%98%EB%8A%94%EB%86%8D%EB%8B%B4%EA%B3%B0-%EC%A0%95%EC%8B%A0%EC%82%AC%EB%82%98%EC%9A%B4%EB%86%8D%EB%8B%B4%EA%B3%B0.gif)
-
-<!--
-**tuna1210/tuna1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
